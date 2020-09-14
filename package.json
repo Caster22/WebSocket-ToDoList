@@ -1,0 +1,16 @@
+{
+  "name": "WebSocket-ToDoList",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Caster22/WebSocket-ToDoList.git",
+  "author": "Michał Kopacz <kopaczmichal093@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "socket.io": "^2.3.0"
+  }
+}
